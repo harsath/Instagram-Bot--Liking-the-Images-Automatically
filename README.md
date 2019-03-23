@@ -4,3 +4,7 @@
    ### --> Enter Your API and Account Run the Insta_X.py File 
    ###     Detials and Run the Insta_X.py File
    ### --> Type the Hash Tags That You Want The Bot To Like
+   
+### License & copyright
+© Harsath
+Licensed under the MIT License.
