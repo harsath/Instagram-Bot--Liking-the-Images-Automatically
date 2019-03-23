@@ -7,4 +7,4 @@
    
 ### License & copyright
 © Harsath <br>
-<pre> Licensed under the MIT License.
+<pre> Licensed under the Apache License 2.0.
