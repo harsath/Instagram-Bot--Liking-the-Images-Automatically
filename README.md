@@ -6,5 +6,5 @@
    ### --> Type the Hash Tags That You Want The Bot To Like
    
 ### License & copyright
-© Harsath
+© Harsath \n
 Licensed under the MIT License.
